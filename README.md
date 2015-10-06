@@ -1,3 +1,5 @@
+Authored By: Bookis Worthy
+
 1. To start, [**fork** the repository](https://guides.github.com/activities/forking/).
 1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
